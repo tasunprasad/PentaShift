@@ -106,7 +106,7 @@ public class Player : MonoBehaviour {
     }
     //Send score to other apps
     public void ShareScore() {
-        ScoreSubmission.SendScore(score);
+      
     }
     //Start new game
     public void NewGame() {
